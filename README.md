@@ -21,9 +21,7 @@ The model was trained using the given dataset and achieved the following metrics
 * Pillow v9.1.1
 
 ## **Media**
-![image](https://github.com/DouglasPrograms/Brain-Tumor-Classification-App/assets/123099510/6fd0b9c9-7c6a-4680-9d9a-70aeb11cd493)
-
-![image](https://github.com/DouglasPrograms/Brain-Tumor-Classification-App/assets/123099510/fb3c23ff-9a18-4d2f-baf0-0d21030f9e33)
+![image](https://i.postimg.cc/hPD7nt7s/image.png)
 
 Video Coming Soon...
 
