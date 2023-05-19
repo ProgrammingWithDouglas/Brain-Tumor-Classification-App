@@ -8,7 +8,7 @@ that was trained on a dataset of brain tumor images. The dataset classes are gli
 This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: glioma, meningioma, no tumor, and pituitary.
 
 ## **Model Information**
-The model followed a periodic sequence in terms of its implemented filters (notebook to the model can be found [Here](https://github.com/DouglasPrograms/Brain-Tumor-Classification-App/blob/main/Brain%20Tumor%20Recognition.ipynb)
+The model followed a periodic sequence in terms of its implemented filters (notebook to the model can be found [Here](https://github.com/DouglasPrograms/Brain-Tumor-Classification-App/blob/main/Brain%20Tumor%20Recognition.ipynb))
 
 The model was trained using the given dataset and achieved the following metrics:
 * Categorical Accuracy: 96%
